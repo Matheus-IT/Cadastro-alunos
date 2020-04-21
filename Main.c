@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <string.h>
-#include "70Functions.c" //Import of functions file
+#include "Functions_globals.c" //Import of functions file
 
 int main() {
     qtd = getNum(" - Cadastrar quantos alunos? ");
